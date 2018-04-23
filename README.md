@@ -1,3 +1,6 @@
 # desktop test
+<<<<<<< HEAD
 Adding in some changes to the README files...
 Second change to be committed...
+=======
+>>>>>>> parent of 020815d... Commit 1
